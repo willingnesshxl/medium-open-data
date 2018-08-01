@@ -9,6 +9,7 @@ Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealice
 you can download the [medium_open_dataset.csv](https://raw.githubusercontent.com/willingnesshxl/medium-open-data/master/medium_open_dataset.csv).
 </br>
 Each line contains a user’s information, including his Twitter information and Medium information.
+<br><br>
 
 ## Feature discription
 * Index feature<br>
