@@ -1,14 +1,21 @@
-# medium-open-data
+# An anonymized dataset of 50135 users of Medium
+Identifying influential users in “cold start” scenarios, i.e., predicting whether a newly registered user or a current inactive user on an emerging OSN would become an influential one.
+
+Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealicense.com/licenses/cc-by-sa-4.0/).
 
 
-Each line contains a user’s information
 
-## Index feature<br>
+## File 
+you can download the medium_open_dataset.csv<br>
+Each line contains a user’s information<br>
+
+## Feature discription
+* Index feature<br>
 First column: Index of this user;<br>
 mid: Anonymous medium userid;<br>
 tid: Anonymous Twitter userid;<br>
 <br><br>
-## Twitter feature:<br>
+* Twitter feature:<br>
 bio_words_num: Number of words of the user’s biography in Twitter;<br>
 has_location: Weather the user add location in his/her Twitter;<br>
 utc_offset: UTC offset in Twitter;<br>
@@ -29,7 +36,7 @@ t_rt: Number of “retweet” of original tweets in Twitter;<br>
 avg_favourite: Average number of “likes” received of original tweets in Twitter;<br>
 avg_rt: Average number of “retweet” of original tweets in Twitter;<br>
 <br><br>
-## Meidum feature:<br>
+* Meidum feature:<br>
 follower: Number of follower in Medium;<br>
 following: Number of following in Medium;<br>
 latest_num: Number of the latest stories published by the user in Medium;<br>
@@ -40,3 +47,12 @@ has_p_img: Weather the user has profile image in Medium;<br>
 has_pb_img: Weather the user has background image in Medium;<br>
 interest_tag_num: Number of interesting tags in Medium;<br>
 claps_num: Number of stories the user claps for in Medium; <br>
+
+## BibTex Entry
+```
+@article{Gong_Meidum18,
+ author = {Qingyuan Gong, Yang Chen, Xinlei He, Fei Li, Yu Xiao, Pan Hui, Xin Wang and Xiaoming Fu},
+ title = {Identification of Influential Users in Emerging Online Social Networks Using Cross-Site Linking.}},
+ Conference = {ChineseCSCW},
+ year = {2018},
+}
