@@ -37,7 +37,7 @@ t_rt: Number of “retweet” of original tweets in Twitter;<br>
 avg_favourite: Average number of “likes” received of original tweets in Twitter;<br>
 avg_rt: Average number of “retweet” of original tweets in Twitter;<br>
 <br><br>
-* Meidum feature:<br>
+* Medium feature:<br>
 follower: Number of follower in Medium;<br>
 following: Number of following in Medium;<br>
 latest_num: Number of the latest stories published by the user in Medium;<br>
