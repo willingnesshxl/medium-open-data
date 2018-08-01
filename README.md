@@ -51,9 +51,9 @@ claps_num: Number of stories the user claps for in Medium; <br>
 
 ## BibTex Entry
 ```
-@article{Gong_Meidum18,
- author = {Qingyuan Gong, Yang Chen, Xinlei He, Fei Li, Yu Xiao, Pan Hui, Xin Wang and Xiaoming Fu},
- title = {Identification of Influential Users in Emerging Online Social Networks Using Cross-Site Linking.}},
- Conference = {ChineseCSCW},
- year = {2018},
-}
+@inproceedings{Gong_Meidum18,
+	author = {Qingyuan Gong, Yang Chen, Xinlei He, Fei Li, Yu Xiao, Pan Hui, Xin Wang and Xiaoming Fu},
+	title = {Identification of Influential Users in Emerging Online Social Networks Using Cross-Site Linking.}},
+	booktitle = {Proc. of the 13th CCF Chinese Conference on Computer Supported Cooperative Work (ChineseCSCW’18)},
+	year = {2018},
+} 
