@@ -3,11 +3,11 @@
 
 Each line contains a user’s information
 
-First column: Index of this user;
-mid: Anonymous medium userid;
-tid: Anonymous Twitter userid;
-bio_words_num: Number of words of the user’s biography in Twitter;
-has_location: Weather the user add location in his/her Twitter;
+First column: Index of this user;<br>
+mid: Anonymous medium userid;<br>
+tid: Anonymous Twitter userid;<br>
+bio_words_num: Number of words of the user’s biography in Twitter;<br>
+has_location: Weather the user add location in his/her Twitter;<br>
 utc_offset: UTC offset in Twitter;
 has_extended_profile: Whether the user add other homepage;
 t_account_age: Age of the account in Twitter;
