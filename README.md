@@ -6,8 +6,8 @@ Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealice
 
 
 ## File 
-you can download the medium_open_dataset.csv [medium_open_dataset.csv](https://raw.githubusercontent.com/willingnesshxl/medium-open-data/master/medium_open_dataset.csv).
-<br>
+you can download the [medium_open_dataset.csv](https://raw.githubusercontent.com/willingnesshxl/medium-open-data/master/medium_open_dataset.csv).
+</br>
 Each line contains a user’s information<br>
 
 * Feature discription
