@@ -12,12 +12,12 @@ Each line contains a user’s information, including his Twitter information and
 <br><br>
 
 ## Feature discription
-* Index feature<br>
+* Index features<br>
 First column: Index of this user;<br>
 mid: Anonymous medium userid;<br>
 tid: Anonymous Twitter userid;<br>
 <br><br>
-* Twitter feature:<br>
+* Twitter features:<br>
 bio_words_num: Number of words of the user’s biography in Twitter;<br>
 has_location: Weather the user add location in his/her Twitter;<br>
 utc_offset: UTC offset in Twitter;<br>
@@ -38,7 +38,7 @@ t_rt: Number of “retweet” of original tweets in Twitter;<br>
 avg_favourite: Average number of “likes” received of original tweets in Twitter;<br>
 avg_rt: Average number of “retweet” of original tweets in Twitter;<br>
 <br><br>
-* Medium feature:<br>
+* Medium features:<br>
 follower: Number of follower in Medium;<br>
 following: Number of following in Medium;<br>
 latest_num: Number of the latest stories published by the user in Medium;<br>
