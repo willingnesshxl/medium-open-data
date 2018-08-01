@@ -12,10 +12,10 @@ Each line contains a user’s information, including his Twitter information and
 <br><br>
 
 ## Feature discription
-* Index features<br>
-First column: Index of this user;<br>
-mid: Anonymous medium userid;<br>
-tid: Anonymous Twitter userid;<br>
+- Index features<br>
++ First column: Index of this user;<br>
++ mid: Anonymous medium userid;<br>
++ tid: Anonymous Twitter userid;<br>
 <br><br>
 * Twitter features:<br>
 bio_words_num: Number of words of the user’s biography in Twitter;<br>
